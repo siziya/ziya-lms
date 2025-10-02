@@ -1,4 +1,4 @@
-use client;
+"use client";
 import Link from "next/link";
 import { useSelector, useDispatch } from "react-redux";
 import { logout } from "../redux/authSlice";
